@@ -1,0 +1,2 @@
+###usuario
+GET http://localhost:9000/api/usuarios
